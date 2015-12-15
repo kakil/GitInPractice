@@ -6,3 +6,6 @@ system." (@MikeMcQuaid)
 Requested document modification from page 35 of the book.
 
 I'm making a modification for Chapter 2 Technique 9.
+
+I'm making a modification for Chapter 2 Technique 10.
+
