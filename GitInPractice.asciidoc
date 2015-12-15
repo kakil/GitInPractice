@@ -4,3 +4,5 @@ possession of good source code, must be in want of a version control
 system." (@MikeMcQuaid)
 
 Requested document modification from page 35 of the book.
+
+I'm making a modification for Chapter 2 Technique 9.
